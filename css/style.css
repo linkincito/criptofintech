@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cal+Sans&family=Kanchenjunga:wght@400;500;600;700&family=Press+Start+2P&family=Special+Gothic+Expanded+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+.criptofin{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.cardbitcoin{
+    border-radius: 15px;
+    padding:5px;
+    
+    
+}
+
+.quienesSomos{
+width: fit-content;
+}
+
+footer
+{width:100%;
+    height:100%;
+
+}
+
+    
+.titulo{
+    font-family:"Black Hand Sans","sans-serif";
+    font-weight:4px;
+    font-style:normal;
+}
+.img-error-404{
+    width:75%;
+}
+
+
+
